@@ -4,7 +4,9 @@
 This project is an end-to-end Power BI dashboard built using the Zomato dataset to analyze global restaurant performance. The objective was to create a consolidated and interactive report that helps business stakeholders quickly assess performance across regions, cuisines, pricing, and customer ratings.
 
 ---
+
 ## 📷 Dashboard Preview
+<img width="1314" height="738" alt="Restaurant Data Analysis Dashboard" src="https://github.com/user-attachments/assets/b2c2c61b-265b-4df5-aa16-f8eb2562704a" />
 
 ---
 
